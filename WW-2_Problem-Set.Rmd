@@ -1,0 +1,19 @@
+---
+title: "WW-2 Problem Set"
+author: 
+date: '`r Sys.Date()`'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Complete the following, replacing the *italic* text. Knit this document to a pdf, **double check the pdf document for errors**, and submit this to this week's Problem Set assignment on Canvas. 
+
+## Problem 1 - Title
+
+Question
+ 
+*answer here*
+
