@@ -43,7 +43,7 @@ In the the "Source" Rmarkdown version of this document, any text that is flanked
 
 ## Finding a data set 
 
-You are encouraged to build from your Assessment 1 dataset, but if you would like to explore some different data we have included some recommendations below in the Dataset recommendations section/chunk. 
+You are encouraged to build from your Assessment 1 dataset, but if you would like to explore some different data we have included some recommendations in the Assessment 1 Dataset recommendations section/chunk. 
 ```
 ```{text Dataset-recommendations, include = FALSE}
 ### Dataset recommendations from Assessment 1
