@@ -231,4 +231,11 @@ https://www.vdh.virginia.gov/data/ - Virginia Department of Health has lots of d
 **Write an example, using your dataset, for a function that we didn't learn yet in class. Explain the arguments you use, what the function does, and the output.** 
 +6 (3 for example, 3 for explanation)
 
+### Don't forget to submit a reflection on the above to the separate SLO7 assignment.
 
+## Critical Evaluation of AI-use in Data Analysis
+
+**Reflect on the role (real or potential) of AI in your (current or future) data analysis process. Did you use any AI tools (e.g., ChatGPT, Claude, Copilot, automated data cleaning packages, etc.) to assist in brainstorming, code generation, data wrangling, or visualization? If you used these tools,  briefly describe how you used these tools and provide a critical evaluation of the results. What steps did or would you take to verify or validate the output provided by the AI? Discuss the potential benefits, limitations, and ethical considerations of using AI in this context.**
++4
+
+### Don't forget to double check that you are effectively communicating your analysis plan and results, using both writing and plots, to a general audience and submit your whole assessment 2 again to the SLO3 assignment. 
