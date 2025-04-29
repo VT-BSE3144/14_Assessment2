@@ -59,6 +59,8 @@ The critical things a dataset must have for this assessment are:
 
 #### Health
 
+Safe Drinking Water Information System (SDWIS) - data on centralized water service design and violations throughout the United States. (https://www.epa.gov/ground-water-and-drinking-water/safe-drinking-water-information-system-sdwis-federal-reporting)
+
 https://www.who.int/data - The World Health organization has lots of very interesting datasets that are pretty accessible. We would recommend in particular, [Child mortality and causes of death](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/child-mortality-and-causes-of-death) and [Life expectancy data by country](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy).
 
 https://healthdata.gov/ - This site is dedicated to making high value health data more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes.
@@ -69,11 +71,19 @@ https://www.cdc.gov/datastatistics/index.html - CDC has many datasets, some may 
 
 #### Environment
 
+https://echo.epa.gov/ - USEPA Enforcement and Compliance System (ECHO) - all permitted releases to surface waters in the United States.
+
+https://vtstreamlab.weebly.com/live-data.html - StREAM Lab - real-time monitoring of water quantity and quality at Stroubles Creek. 
+
+https://www.deq.virginia.gov/topics-of-interest/per-and-polyfluoroalkyl-substances-pfas - VADEQ PFAS monitoring data - Forever chemicals PFAS, perfluoroalkyl substances, measured in water sources throughout Virginia. 
+
 https://waterdata.usgs.gov/nwis - These pages provide access to water-resources data collected at approximately 1.9 million sites across the US and its territories.
 
 https://data.noaa.gov/datasetsearch/ - NOAA has many datasets related to the environment from weather and water, to ecology and environmental health. These are generally pretty accessible too.
 
 #### Agriculture
+
+https://datl-chandel.github.io/Agroclimate/ - Agroclimate Viewer & Planner App - This tools enables monitoring crop health (from satellite imagery), weather history and 16 day forecast, and soil properties. 
 
 https://data.nal.usda.gov/ - The USDA has a large collection of agriculturally relevant data sets.
 
@@ -109,7 +119,7 @@ https://www.vdh.virginia.gov/data/ - Virginia Department of Health has lots of d
 
 ## Analysis Plan
 
-**Pick 2 of your above questions that use at least two different numerical methods and write down a step-by-step analysis plan for asking those questions using your chosen dataset. Look back at the many different workflows we have used throughout the semester and replace the example text below with more specifics.**
+**Pick 2 of your above questions that use at least two different numerical methods and write down a step-by-step analysis plan for asking those questions using your chosen dataset. _Expand upon the template list below with specifics from your dataset._ Look back at the many different workflows we have used throughout the semester and replace the example text below with more specifics.**
 
 1. +5 
     a. Download data
@@ -166,7 +176,7 @@ https://www.vdh.virginia.gov/data/ - Virginia Department of Health has lots of d
 # +4
 ```
 
-**Are there any other statistical tests that should be done to assess the appropriateness of this numerical method for this dataset?**
+**Are there any other statistical tests that should be done to assess the appropriateness of this numerical method for this dataset and/or whether assumptions of the method are satisfied?**
 +2
 
 **Make a plot of your data with the addition of the results of your numerical analysis.**
@@ -225,7 +235,7 @@ https://www.vdh.virginia.gov/data/ - Virginia Department of Health has lots of d
 
 ## Extension
 
-**Find a package, blog, video, or other demo in R that is related in some way to your dataset and questions and introduces functions that we didn't learn about in this class. Provide a link below and briefly summarize what you have found.**
+**Find a package vignette, blog, video, or other demo in R that is related in some way to your dataset and/or questions and introduces functions that we didn't learn about in this class. Provide a link below and briefly summarize what you have found.**
 +2
 
 **Write an example, using your dataset, for a function that we didn't learn yet in class. Explain the arguments you use, what the function does, and the output.** 
